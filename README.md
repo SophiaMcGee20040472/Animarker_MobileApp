@@ -14,7 +14,7 @@ App Design
 
 Chosen SplashScreen &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  2nd Option SplashScreen
 
-![login1](https://user-images.githubusercontent.com/83893260/198859903-7dbb5ccc-7d8f-4984-978a-b063ab5d3855.png)
+![Login](https://user-images.githubusercontent.com/83893260/198876950-ed213a88-eb4b-412d-a438-635146cf100b.png)
 
 Chosen colour theme   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2nd Option Colour Theme
 
